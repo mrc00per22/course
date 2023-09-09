@@ -1,4 +1,4 @@
 def print_name(name):
   print(f"Hello, {name}")
 
-print_name(12)
+print_name("Jorge")
